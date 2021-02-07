@@ -6,6 +6,10 @@
     border-radius: 8px;
 }
 
+.comment {
+    text-align: left;
+}
+
 .holder {
     min-height: 250px;
     max-height: 250px;
